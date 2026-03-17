@@ -1,0 +1,9 @@
+[submodule "submodules/GradientspaceCore"]
+	path = submodules/GradientspaceCore
+	url = https://github.com/alpinebuster/GradientspaceCore.git
+[submodule "submodules/GradientspaceIO"]
+	path = submodules/GradientspaceIO
+	url = https://github.com/alpinebuster/GradientspaceIO.git
+[submodule "submodules/GradientspaceGrid"]
+	path = submodules/GradientspaceGrid
+	url = https://github.com/alpinebuster/GradientspaceGrid.git
