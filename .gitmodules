@@ -1,9 +1,0 @@
-[submodule "submodules/GradientspaceCore"]
-	path = submodules/GradientspaceCore
-	url = https://github.com/gradientspace/GradientspaceCore
-[submodule "submodules/GradientspaceIO"]
-	path = submodules/GradientspaceIO
-	url = https://github.com/gradientspace/GradientspaceIO
-[submodule "submodules/GradientspaceGrid"]
-	path = submodules/GradientspaceGrid
-	url = https://github.com/gradientspace/GradientspaceGrid
